@@ -45,5 +45,4 @@ Homemade SOC: Building a Security Operations Center at Home
 
 
 ## 💬 Get in Touch
-_________
 Have questions or ideas? Open an issue or start a discussion in this repository. Let’s collaborate and learn together!
