@@ -1,3 +1,3 @@
-## 30 de diciembre de 2024
-- Comencé el README.md con la introducción del proyecto
-- Busqué información sobre herramientas que podría utilizar para montar el SOC
+## December 30, 2024
+- Made the main README.md with the project introduction
+- Searched for information on tools I could use to build the SOC
