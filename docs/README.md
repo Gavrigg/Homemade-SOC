@@ -87,28 +87,23 @@ ___
 Existen diversos modelos de implementación de un Centro de Operaciones de Seguridad (SOC), cada uno adaptado a las necesidades y capacidades de la organización. Estos modelos van desde SOC dedicados con personal y recursos internos, hasta opciones más flexibles como SOC virtuales o servicios administrados por terceros (MSSP/MDR). A continuación, se detallan los modelos más comunes, que varían en cuanto a la estructura operativa, el nivel de personalización y la dependencia de recursos externos.
 
 #### **SOC dedicado**
-SOC clásico con instalaciones dedicadas, personal dedicado a tiempo completo, operado completamente en casa, operaciones 24x7.
+SOC clásico con instalaciones dedicadas, personal dedicado a tiempo completo, operado completamente en casa, operaciones 24x7. Se distingue por su total independencia y autonomía, a diferencia de los demás, ofrece el mayor control y personalización, pero conlleva altos costes y complejidad operativa.
 
 
 #### **SOC distribuido**
-Parte del personal a tiempo completo y algunos a tiempo parcial, generalmente operan 8x5 en cada región.
-
+El SOC distribuido se basa en la descentralización de las operaciones de seguridad, utilizando tanto personal a tiempo completo como a tiempo parcial. Este modelo permite que las tareas de monitoreo se dividan geográficamente o por áreas de especialización, lo que optimiza el uso de recursos. Generalmente, su funcionamiento está limitado a un horario laboral estándar de 8x5 en cada región donde opera. Esto puede resultar en una menor cobertura de vigilancia durante las horas no laborales, aunque también reduce costes y facilita la integración en empresas con menos necesidades de seguridad ininterrumpida.
 
 #### **SOC/NOC multifuncional**
-Una instalación dedicada con un equipo dedicado que realiza tanto las funciones de un Centro de Operaciones de RED (NOC) como de un Centro de Operaciones de Seguridad (SOC).
-
+Este tipo de SOC combina las funciones de un Centro de Operaciones de Seguridad (SOC) y un Centro de Operaciones de Red (NOC) en una única instalación. Esta integración permite que el equipo dedicado gestione tanto la infraestructura de red como la seguridad, ofreciendo una solución más eficiente y económica. Sin embargo, requiere que el personal posea habilidades especializadas en ambas áreas, lo que puede complicar la contratación y la formación. Este enfoque es ideal para organizaciones que buscan maximizar el uso de sus recursos y mantener una supervisión centralizada de todos los aspectos operativos.
 
 #### **SOC de fusión**
-Un SOC tradicional combinado con nuevas funciones como la inteligencia de amenazas y la tecnología operativa (OT).
-
+El SOC de fusión representa una evolución del modelo tradicional, añadiendo capacidades avanzadas como la integración de inteligencia de amenazas y la gestión de la seguridad en entornos de tecnología operativa (OT). Esto permite una visión más completa de los riesgos y la capacidad de responder de manera proactiva a amenazas emergentes. Este modelo es particularmente útil para organizaciones que manejan infraestructuras críticas o que desean una seguridad más integrada con sus procesos operativos. No obstante, su implementación requiere una planificación cuidadosa y la adquisición de nuevas competencias técnicas.
 
 #### **Comando SOC/SOC global**
-Coordina otros SOC en una empresa global, proporciona inteligencia de amenazas, conciencia situacional y orientación.
-
+Este modelo actúa como un centro de coordinación centralizado para gestionar y supervisar otros SOC distribuidos dentro de una empresa global. Su función principal es consolidar la inteligencia de amenazas, mantener la conciencia situacional y proporcionar orientación estratégica a los equipos regionales. Este enfoque es ideal para grandes corporaciones multinacionales, ya que permite estandarizar procedimientos y mejorar la respuesta global ante incidentes. Además, facilita la comunicación entre regiones y asegura que las decisiones de seguridad se alineen con los objetivos corporativos.
 
 #### **Virtual SOC**
-No hay instalaciones dedicadas, miembros del equipo a tiempo parcial, generalmente reactivos y activados por una alerta de alto perfil o incidente de seguridad. El término SOC virtual también se usa a veces para un MSSP o SOC administrado.
-
+El SOC virtual destaca por su flexibilidad y bajo coste, ya que no requiere instalaciones físicas ni personal permanente dedicado exclusivamente a las operaciones de seguridad. Este modelo se activa únicamente en respuesta a incidentes de alta prioridad o alertas críticas, lo que lo convierte en una opción eficiente para organizaciones con recursos limitados. Además, el término también se utiliza para describir soluciones proporcionadas por proveedores externos de servicios de seguridad gestionados (MSSP), lo que permite externalizar parcial o totalmente las funciones del SOC.
 
 #### **SOC/MSSP/MDR administrado**
 Muchas organizaciones están recurriendo a los proveedores de servicio de seguridad administrados (MSSP) para proporcionar servicios SOC de forma subcontratada. Las ofertas modernas se denominan Managed Detection and Response (MDR). Los SOC administrados se pueden subcontratar por completo o coadministrar con personal de seguridad interno.
