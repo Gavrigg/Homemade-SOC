@@ -132,25 +132,25 @@ ___
 ### **Modelos de implementación de SOC**
 Existen diversos modelos de implementación de un Centro de Operaciones de Seguridad (SOC), cada uno adaptado a las necesidades y capacidades de la organización. Estos modelos van desde SOC dedicados con personal y recursos internos, hasta opciones más flexibles como SOC virtuales o servicios administrados por terceros (MSSP/MDR). A continuación, se detallan los modelos más comunes, que varían en cuanto a la estructura operativa, el nivel de personalización y la dependencia de recursos externos.
 
-##### SOC dedicado
+##### **SOC dedicado**
 SOC clásico con instalaciones dedicadas, personal dedicado a tiempo completo, operado completamente en casa, operaciones 24x7.
 
-##### SOC distribuido
+##### **SOC distribuido**
 Parte del personal a tiempo completo y algunos a tiempo parcial, generalmente operan 8x5 en cada región.
 
-##### SOC/NOC multifuncional
+##### **SOC/NOC multifuncional**
 Una instalación dedicada con un equipo dedicado que realiza tanto las funciones de un Centro de Operaciones de RED (NOC) como de un Centro de Operaciones de Seguridad (SOC).
 
-##### SOC de fusión
+##### **SOC de fusión**
 Un SOC tradicional combinado con nuevas funciones como la inteligencia de amenazas y la tecnología operativa (OT).
 
-##### Comando SOC/SOC global
+##### **Comando SOC/SOC global**
 Coordina otros SOC en una empresa global, proporciona inteligencia de amenazas, conciencia situacional y orientación.
 
-##### Virtual SOC
+##### **Virtual SOC**
 No hay instalaciones dedicadas, miembros del equipo a tiempo parcial, generalmente reactivos y activados por una alerta de alto perfil o incidente de seguridad. El término SOC virtual también se usa a veces para un MSSP o SOC administrado.
 
-##### SOC/MSSP/MDR administrado
+##### **SOC/MSSP/MDR administrado**
 Muchas organizaciones están recurriendo a los proveedores de servicio de seguridad administrados (MSSP) para proporcionar servicios SOC de forma subcontratada. Las ofertas modernas se denominan Managed Detection and Response (MDR). Los SOC administrados se pueden subcontratar por completo o coadministrar con personal de seguridad interno.
 
 ### **Tabla organizativa**
