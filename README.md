@@ -259,24 +259,8 @@ El entorno será local, sin una infraestructura híbrida o basada exclusivamente
 
 ## **Defensa en profundidad**
 
-![Imagen](https://pbs.twimg.com/media/FeyDyqfWQAAcwKs?format=jpg&name=small)
-Imagen extraída de: https://x.com/Fisher85M/status/1579782478285672449
-
 
 # Herramientas empleadas
-
-##### **SIEM**
-
-Wazuh
-
-##### **SOAR**
-
-##### **IDS**
-
-##### **IPS**
-
-
-
 
 
 ___
