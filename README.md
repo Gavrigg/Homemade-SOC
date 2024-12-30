@@ -135,23 +135,31 @@ Existen diversos modelos de implementación de un Centro de Operaciones de Segur
 ##### **SOC dedicado**
 SOC clásico con instalaciones dedicadas, personal dedicado a tiempo completo, operado completamente en casa, operaciones 24x7.
 
+
 ##### **SOC distribuido**
 Parte del personal a tiempo completo y algunos a tiempo parcial, generalmente operan 8x5 en cada región.
+
 
 ##### **SOC/NOC multifuncional**
 Una instalación dedicada con un equipo dedicado que realiza tanto las funciones de un Centro de Operaciones de RED (NOC) como de un Centro de Operaciones de Seguridad (SOC).
 
+
 ##### **SOC de fusión**
 Un SOC tradicional combinado con nuevas funciones como la inteligencia de amenazas y la tecnología operativa (OT).
+
 
 ##### **Comando SOC/SOC global**
 Coordina otros SOC en una empresa global, proporciona inteligencia de amenazas, conciencia situacional y orientación.
 
+
 ##### **Virtual SOC**
 No hay instalaciones dedicadas, miembros del equipo a tiempo parcial, generalmente reactivos y activados por una alerta de alto perfil o incidente de seguridad. El término SOC virtual también se usa a veces para un MSSP o SOC administrado.
 
+
 ##### **SOC/MSSP/MDR administrado**
 Muchas organizaciones están recurriendo a los proveedores de servicio de seguridad administrados (MSSP) para proporcionar servicios SOC de forma subcontratada. Las ofertas modernas se denominan Managed Detection and Response (MDR). Los SOC administrados se pueden subcontratar por completo o coadministrar con personal de seguridad interno.
+
+
 
 ### **Tabla organizativa**
 La tabla presentada resume las principales opciones y modelos de implementación de un Centro de Operaciones de Seguridad (SOC), destacando sus características clave junto con una evaluación práctica de su complejidad, coste estimado y ejemplos de uso. Incluye desde soluciones altamente personalizables, como los SOC por componentes que requieren recursos significativos, hasta opciones externalizadas como los MSSP, ideales para pequeñas y medianas empresas. También se abarcan combinaciones híbridas y globales que ofrecen flexibilidad para organizaciones con operaciones distribuidas. Esta clasificación tiene como objetivo facilitar la elección del modelo adecuado según las necesidades, capacidades y presupuesto de cada organización.
