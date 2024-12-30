@@ -231,6 +231,6 @@ Frayssinet, M. (2022). Implementación del Centro de operaciones de seguridad (S
 
 Ryan, Z. (2022). # CYBERCLOUDSUMMIT22](https://www.youtube.com/hashtag/cybercloudsummit22): ¿Montar un [#SOC](https://www.youtube.com/hashtag/soc) por componentes o implementar un todo en uno? @Dotforce. Youtube: https://www.youtube.com/watch?v=gM_Y_0zUdmA
 
-
+Kral, P. (2021). *Incident Handler's Handbook*. GIAC Certifications, SANS Institute.
 
 Imagen extraída de: https://x.com/Fisher85M/status/1579782478285672449
