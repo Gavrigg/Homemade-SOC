@@ -129,34 +129,34 @@ ___
 - Coste puede ser mayor
 
 
-### **Modelos de implementación de SOC**
+## **Modelos de implementación de SOC**
 Existen diversos modelos de implementación de un Centro de Operaciones de Seguridad (SOC), cada uno adaptado a las necesidades y capacidades de la organización. Estos modelos van desde SOC dedicados con personal y recursos internos, hasta opciones más flexibles como SOC virtuales o servicios administrados por terceros (MSSP/MDR). A continuación, se detallan los modelos más comunes, que varían en cuanto a la estructura operativa, el nivel de personalización y la dependencia de recursos externos.
 
-##### **SOC dedicado**
+#### **SOC dedicado**
 SOC clásico con instalaciones dedicadas, personal dedicado a tiempo completo, operado completamente en casa, operaciones 24x7.
 
 
-##### **SOC distribuido**
+#### **SOC distribuido**
 Parte del personal a tiempo completo y algunos a tiempo parcial, generalmente operan 8x5 en cada región.
 
 
-##### **SOC/NOC multifuncional**
+#### **SOC/NOC multifuncional**
 Una instalación dedicada con un equipo dedicado que realiza tanto las funciones de un Centro de Operaciones de RED (NOC) como de un Centro de Operaciones de Seguridad (SOC).
 
 
-##### **SOC de fusión**
+#### **SOC de fusión**
 Un SOC tradicional combinado con nuevas funciones como la inteligencia de amenazas y la tecnología operativa (OT).
 
 
-##### **Comando SOC/SOC global**
+#### **Comando SOC/SOC global**
 Coordina otros SOC en una empresa global, proporciona inteligencia de amenazas, conciencia situacional y orientación.
 
 
-##### **Virtual SOC**
+#### **Virtual SOC**
 No hay instalaciones dedicadas, miembros del equipo a tiempo parcial, generalmente reactivos y activados por una alerta de alto perfil o incidente de seguridad. El término SOC virtual también se usa a veces para un MSSP o SOC administrado.
 
 
-##### **SOC/MSSP/MDR administrado**
+#### **SOC/MSSP/MDR administrado**
 Muchas organizaciones están recurriendo a los proveedores de servicio de seguridad administrados (MSSP) para proporcionar servicios SOC de forma subcontratada. Las ofertas modernas se denominan Managed Detection and Response (MDR). Los SOC administrados se pueden subcontratar por completo o coadministrar con personal de seguridad interno.
 
 
@@ -171,9 +171,9 @@ La tabla presentada resume las principales opciones y modelos de implementación
 |   **Opción 3 - Externalización**   | - **SOC/MSSP/MDR administrado**: Servicios SOC subcontratados a proveedores de seguridad<br><br>- **Virtual SOC**: Equipo reactivo sin instalaciones dedicadas                                                                        |      Baja       |      Variable      |      Pymes que buscan externalizar seguridad      |
 |    **Combinaciones Especiales**    | - **SOC distribuido**: Personal a tiempo completo y parcial operando en horarios 8x5 según región<br><br>- **Comando SOC/SOC global**: Coordina SOC a nivel global, proporcionando inteligencia de amenazas y orientación estratégica |   Media-Alta    |        Alto        | Empresas globales con operaciones interconectadas |
 
-### **Funciones y responsabilidades del SOC**
+## **Funciones y responsabilidades del SOC**
 
-##### **Analista de seguridad**
+### **Analista de seguridad**
 El primero en responder a incidentes. Su respuesta generalmente transcurre en tres etapas:
 - Detección de amenazas
 - Investigación de amenazas
@@ -181,10 +181,10 @@ El primero en responder a incidentes. Su respuesta generalmente transcurre en tr
 
 Los analistas de seguridad también deben asegurarse de que se implemente la capacitación correcta y de que le personal pueda implementar políticas y procedimientos. Los analistas de seguridad trabajan junto con el personal interno de IT y los administradores de negocios para comunicar información sobre las ilimitaciones de seguridad y desarrollar documentación.
 
-##### **Ingeniero/Arquitecto de seguridad**
+### **Ingeniero/Arquitecto de seguridad**
 Mantiene y sugiere herramientas de monitoreo y análisis. Crean una arquitectura de seguridad y trabajan con los desarrolladores para garantizar que esta arquitectura sea parte del ciclo de desarrollo. Un ingeniero de seguridad puede ser un especialista en software o hardware que presta especial atención a los aspectos de seguridad al diseñar sistemas de información. Desarrollan herramientas y soluciones que permiten a las organizaciones prevenir y responder eficazmente a los ataques. Documentan procedimientos, requisitos y protocolos.
 
-##### **Gerente de SOC**
+### **Gerente de SOC**
 Administra el equipo de SOC e informa al CISO. Supervisan al equipo de seguridad, proporcionan orientación técnica y administran las actividades financieras. El gerente de SOC supervisa la actividad del equipo de SOC, incluida la contratación, capacitación y evaluación del personal. Las responsabilidades adicionales incluyen la creación de procesos, la evaluación de informes de incidentes y el desarrollo e implementación de planes de comunicación de crisis. Escriben informes de cumplimiento, respaldan el proceso de auditoría, miden las métricas de rendimiento de SOC e informan sobre las operaciones de seguridad a los líderes empresariales.
 
 ##### **CISO**
