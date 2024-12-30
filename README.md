@@ -200,13 +200,13 @@ Aunque el proyecto no abarca las funciones de ingenieros de seguridad o gerentes
 
 A través de la simulación de estas funciones y roles dentro de un entorno controlado, este proyecto busca no solo demostrar mis habilidades técnicas, sino también mi capacidad para trabajar en un equipo y colaborar en la identificación y resolución de problemas de seguridad en un contexto práctico, alineado con los objetivos y expectativas de un analista L1 en un entorno profesional de ciberseguridad.
 
-##### **Tipo de SOC elegido**
+## **Tipo de SOC elegido**
 Para el desarrollo de este proyecto, he optado por implementar un **SOC virtual** debido a varias razones que facilitan la creación de un centro de operaciones de seguridad en un entorno doméstico. La principal ventaja de un SOC virtual es la flexibilidad y la reducción de los costes asociados con la infraestructura física, pues al no requerir de instalaciones dedicadas ni un equipo de personal a tiempo completo, puedo gestionar todo el proceso desde un entorno controlado en casa, lo que hace posible adaptar el proyecto a mis capacidades y recursos disponibles.
 
-##### **Limitaciones del proyecto**
+## **Limitaciones del proyecto**
 Una de las limitaciones que enfrentaría al optar por un **SOC dedicado** sería la necesidad de gestionar una infraestructura física más compleja, lo cual, además de aumentar los costes, demandaría más tiempo y esfuerzo para el mantenimiento de las herramientas y la configuración de las redes y servidores. Este tipo de implementación también implicaría una mayor complejidad en la contratación de recursos, como analistas de seguridad o programadores, algo poco viable para un proyecto personal en el que se busca una experiencia autodidacta.
 
-##### **Ventajas del proyecto**
+## **Ventajas del proyecto**
 Por otro lado, al optar por un SOC virtual, no solo optimizo los recursos, sino que puedo integrar herramientas y soluciones de seguridad de manera modular, adaptando las herramientas a mis necesidades y aprendiendo sobre cada componente de forma más práctica y eficiente. Aunque en un SOC virtual se pierde algo de control sobre la infraestructura, la posibilidad de activar herramientas y capacidades solo cuando sea necesario me permite simular un entorno real eficientemente.
 
 En resumen, un **SOC virtual** me permitirá trabajar de forma más flexible y económica, manteniendo el enfoque en la adquisición de conocimientos prácticos sin sobrecargarme de tareas logísticas. Además, este modelo me proporciona la oportunidad de integrar soluciones de seguridad de una manera escalable, lo que resulta ideal para un proyecto como el que estoy llevando a cabo.
@@ -216,13 +216,13 @@ ___
 
 El propósito de este proyecto es diseñar, implementar y documentar un Centro de Operaciones de Seguridad (SOC) funcional en un entorno doméstico, utilizando herramientas accesibles y técnicas adecuadas para desarrollar una experiencia práctica en ciberseguridad. A través de este proceso, se pretende obtener una comprensión más profunda de los principios y prácticas del SOC, y adquirir habilidades que sean relevantes para futuras oportunidades profesionales en el campo de la ciberseguridad.
 
-##### **Objetivos Generales**
+### **Objetivos Generales**
 Diseñar, implementar y documentar un SOC (Centro de Operaciones de Seguridad) funcional en un entorno doméstico, utilizando herramientas y técnicas accesibles, con el propósito de:
 
 1. **Desarrollar habilidades prácticas** en análisis, supervisión y respuesta ante amenazas de ciberseguridad.
 2. **Obtener experiencia demostrable** que sea relevante para roles profesionales en el ámbito de ciberseguridad.
 
-##### **Objetivos Específicos**
+### **Objetivos Específicos**
 
 1. **Estudio de Conceptos Fundamentales**
     - Comprender los servicios y funciones clave que componen un SOC, integrando tanto aspectos teóricos como prácticos
@@ -249,23 +249,23 @@ Diseñar, implementar y documentar un SOC (Centro de Operaciones de Seguridad) f
 
 
 # **Planificación y ejecución del SOC casero**
-##### **Disponibilidad y horarios**
+### **Disponibilidad y horarios**
 En este proyecto, se optará por un modelo 24x7 (24 horas al día, 7 días a la semana), que es lo más adecuado para simular un SOC doméstico funcional que pueda detectar, responder e investigar incidentes en tiempo real. Aunque en un entorno real puede ser costoso contar con un equipo dedicado a tiempo completo, la simulación de este modelo permite cubrir cualquier posible incidencia de seguridad a cualquier hora, lo que es fundamental para garantizar la seguridad en todo momento.
 
-##### **Formato**
+### **Formato**
 Este proyecto utilizará un SOC independiente, en lugar de un SOC y NOC integrados. La razón detrás de esto es la intención de concentrarse exclusivamente en las tareas de monitoreo y respuesta ante incidentes de seguridad, sin la necesidad de gestionar la infraestructura de red y servicios. Un SOC independiente permitirá una mayor especialización en el área de ciberseguridad, con el enfoque principal en la protección de activos informáticos.
 
-##### **Organización**
+### **Organización**
 En este caso, el proyecto planteará controlar todo en casa. Aunque un modelo de MSSP (Proveedor de Servicios de Seguridad Gestionados) podría ser una opción en entornos empresariales, este proyecto se centrará en la implementación de un SOC casero sin la externalización de servicios. Un MSSP se refiere a un proveedor externo que gestiona y supervisa la seguridad de una organización, ofreciendo servicios como monitoreo, análisis y respuesta ante incidentes. La razón para optar por el modelo "en casa" es aprender de primera mano los procesos involucrados en la gestión de un SOC, como la detección de amenazas, la respuesta a incidentes y la configuración de herramientas.
 
-##### **Prioridades y capacidades**
+### **Prioridades y capacidades**
 En este proyecto, la seguridad será la principal preocupación. Si bien el cumplimiento con normativas es importante, la prioridad principal será garantizar la protección de los activos informáticos frente a ataques y amenazas cibernéticas. En términos de capacidades, el monitoreo será la principal prioridad. Se configurarán herramientas para detectar intrusiones y anomalías en tiempo real, pero también se incluirán capacidades básicas de hacking ético, como pruebas de penetración y simulación de ataques para evaluar la robustez de la infraestructura de seguridad. Este enfoque integral permitirá cubrir tanto la protección como la evaluación de vulnerabilidades. En cuanto a la nube, el proyecto no priorizará un uso extensivo, ya que se centrará en un entorno local simulado, aunque se considerarán aspectos relacionados con el acceso remoto y las posibles integraciones con servicios en la nube.
 
-##### **Entorno**
+### **Entorno**
 El entorno será local, sin una infraestructura híbrida o basada exclusivamente en la nube. La razón principal para elegir este enfoque es crear un SOC doméstico funcional que simule un entorno tradicional, utilizando hardware y software locales. Esto permite controlar directamente todos los componentes del SOC, aprender a gestionar las herramientas y realizar ajustes en función de las necesidades del proyecto sin depender de servicios externos. Aunque un entorno híbrido podría ofrecer mayor flexibilidad, en este caso se busca un enfoque más sencillo y directo para la implementación de un SOC en casa.
 
 
-## **Defensa en profundidad**
+# **Defensa en profundidad**
 
 
 # Herramientas empleadas
