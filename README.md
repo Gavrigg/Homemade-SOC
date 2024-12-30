@@ -57,10 +57,10 @@ Se creía que un SOC solo era adecuado para grandes empresas, Hoy en día, mucha
 
 Los SOC son una forma comprobada de mejorar la detección de amenazas, distribuir la probabilidad de violaciones de seguridad y garantizar una respuesta organizacional adecuada cuando ocurren incidentes. Los equipos de SOC aíslan la actividad inusual en servidores, bases de datos, redes, puntos finales, aplicaciones, etc., identifican amenazas de seguridad, las investigan y reaccionan a los incidentes de seguridad a medida que ocurren (Frayssinet, 2022).
 
-#### **Funcionamiento del SOC**
+### **Funcionamiento del SOC**
 Una organización primero debe definir su estrategia de seguridad y luego proprocionar una infraestructura adecuada con la que trabajará en el equipo de SOC. El sistema de información que subyace a la actividad de SOC es un sistema de información de seguridad y gestión de eventos (SIEM), que recopila registros y eventos de cientos de herramientas de seguridad y sistemas organizativos, y genera alertas de seguridad procesables, a las que el equipo de SOC puede analizar y responder.
 
-#### **Responsabilidades principales del SOC**
+### **Responsabilidades principales del SOC**
 
 **Mantenimiento de herramientas de monitoreo de seguridad**
 El equipo debe mantener y actualizar las herramientas regularmente. Sin las herramientas correctas y más actualizadas, no pueden proteger adecuadamente los sistemas y las redes. Los miembros del equipo deben mantener las herramientas utilizadas en cada parte del proceso de seguridad.
