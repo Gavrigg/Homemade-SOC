@@ -2,6 +2,3 @@
 
 Para el manejo de detección y respuesta ante incidentes he utilizado el [Incident Handler's Handbook](https://drive.google.com/file/d/1fMS-1aUAI9rUV8RbDVTQNS9cdfwZcqhD/view?usp=drive_link) 
 > An incident is a matter of when, not if, a compromise or violation of an organization’s security will happen. The preparation of the Computer Incident Response Team (CIRT) through planning, communication, and practice of the incident response process will provide the necessary experience needed should an incident occur within your organization. Each phase from preparation to lessons learned is extremely beneficial to follow in sequence, as each one builds upon the other. The following phases will provide a basic foundation to be able to perform incident response and allow one to create their own incident response plan.
-> Este es el primer nivel de cita.
->
-> > Este es un segundo nivel de cita.
