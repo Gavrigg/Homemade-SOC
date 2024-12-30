@@ -187,7 +187,7 @@ Mantiene y sugiere herramientas de monitoreo y análisis. Crean una arquitectura
 ### **Gerente de SOC**
 Administra el equipo de SOC e informa al CISO. Supervisan al equipo de seguridad, proporcionan orientación técnica y administran las actividades financieras. El gerente de SOC supervisa la actividad del equipo de SOC, incluida la contratación, capacitación y evaluación del personal. Las responsabilidades adicionales incluyen la creación de procesos, la evaluación de informes de incidentes y el desarrollo e implementación de planes de comunicación de crisis. Escriben informes de cumplimiento, respaldan el proceso de auditoría, miden las métricas de rendimiento de SOC e informan sobre las operaciones de seguridad a los líderes empresariales.
 
-##### **CISO**
+### **CISO**
 
 Define las operaciones de seguridad de la organización. Se comunican con la gerencia sobre problemas de seguridad y supervisan las tareas de cumplimiento. El CISO tiene la última palabra sobre las políticas, estrategias y procedimientos relacionados con la ciberseguridad de la organización. También tienen un papel central en el cumplimiento y la gestión de riesgos, e implementan políticas para satisfacer demandas de seguridad específicas.
 
