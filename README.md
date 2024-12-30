@@ -48,7 +48,9 @@ Homemade SOC: Building a Security Operations Center at Home
 Have questions or ideas? Open an issue or start a discussion in this repository. Let’s collaborate and learn together!
 
 # **Introducción**
-Para este proyecto me he servido del vídeo de Zane Ryan, titulado "¿Montar un SOC por componentes o implementar un todo en uno?", donde el ponente comienza explicando los servicios de los que se compone un SOC, tanto en su apartado teórico como práctico. Posteriormente, para la implementación más técnica me he servido de otro vídeo de Maurice Frayssinet subido a la plataforma YouTube titulado "Implementación del Centro de operaciones de seguridad (SOC)". En el podemos ver una serie de definiciones más en profundidad, a diferencia del vídeo de Zane Ryan.
+Para este proyecto me he servido del vídeo de Zane Ryan, titulado "¿Montar un SOC por componentes o implementar un todo en uno?", donde el ponente explica los servicios de los que se compone un SOC, tanto en su apartado teórico como práctico. Posteriormente, para la implementación más técnica me he servido de otro vídeo de Maurice Frayssinet subido a la plataforma YouTube titulado "Implementación del Centro de operaciones de seguridad (SOC)". En el podemos ver una serie de definiciones más en profundidad, a diferencia del vídeo de Zane Ryan. 
+
+**Esta introducción está en constante cambio, a medida que se añadan recursos y sus fuentes al proyecto se añadirán al apartado actual.**
 
 ## **¿Qué es un SOC?**
 Un SOC es tradicionalmente una instalación física dentro de una organización, que alberga un equipo de seguridad de la información. Este equipo analiza y supervisa los sistemas de seguridad de la organización. La misión del SOC es proteger a la empresa de las brechas de seguridad mediante la identificación, el análisis y la reacción a las amenazas dax ciberseguridad. Los equipos de SOC están compuestos por gerentes, analistas de seguridad y, a veces, ingenieros de5 seguridad. El SOC trabaja con los equipos de desarrollo y operaciones de TI de la compañía (Frayssinet, 2022).
