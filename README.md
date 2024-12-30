@@ -1,6 +1,6 @@
 
 ## 📖 About the Project
-_________
+
 This project is a step-by-step journey into building a fully functional Security Operations Center (SOC) at home. Designed as a learning and experimentation platform, it covers the essential components of a SOC, including:
 
 - Day-by-day logs of progress and challenges
@@ -13,7 +13,7 @@ This project is designed for learning and experimentation, aimed at enthusiasts 
 
 
 ## 🚀 How to Use This Project
-_________
+
 1. Explore the Documentation:
     Follow the day-by-day logs in the /docs directory for step-by-step guidance.
     Each log includes configurations, tools used, and lessons learned.
@@ -37,7 +37,6 @@ Homemade SOC: Building a Security Operations Center at Home
 
 
 ## 📂 Project Structure
-_________
 
 - /docs: Daily logs and detailed documentation
 - /setup: Installation and configuration guides for tools and platforms
