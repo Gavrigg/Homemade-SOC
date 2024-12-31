@@ -28,6 +28,8 @@ The team must maintain and update tools regularly. Without the right and most up
 **Security Monitoring Tools Maintenance**
 The SOC team must investigate suspicious and malicious activity within networks and systems. Generally, your SIEM or analytics software will issue alerts that the team will then analyze and examine, triage, and uncover the scope of the threat.
 
+&nbsp;
+
 ## **SOC Types**
 There are different approaches to implementing a Security Operations Center (SOC), each with its advantages and disadvantages depending on the organization's needs and capabilities. Below are three main options: building a componentized SOC, opting for an all-in-one SOC, or outsourcing the service to a third party. Each one presents different levels of customization, cost, complexity and implementation, which will allow companies to choose the most appropriate solution for their context.
 
