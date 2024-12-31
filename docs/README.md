@@ -32,7 +32,7 @@ The SOC team must investigate suspicious and malicious activity within networks 
 There are different approaches to implementing a Security Operations Center (SOC), each with its advantages and disadvantages depending on the organization's needs and capabilities. Below are three main options: building a componentized SOC, opting for an all-in-one SOC, or outsourcing the service to a third party. Each one presents different levels of customization, cost, complexity and implementation, which will allow companies to choose the most appropriate solution for their context.
 
 
-#### **Option 1 - Build a SOC by components**
+### **Option 1 - Build a SOC by components**
 
 **Disadvantages:**
 - Buy SOC parts one by one
@@ -53,7 +53,7 @@ There are different approaches to implementing a Security Operations Center (SOC
 - End up with a service very tailored to your needs
 
 ___
-#### **Option 2 - Build an All-in-One SOC**
+### **Option 2 - Build an All-in-One SOC**
 
 **Advantages:**
 - No need to evaluate a ton of products
@@ -73,7 +73,7 @@ ___
 - Train and retain them
 
 ___
-#### **Option 3 - Outsourcing the service to a third party**
+### **Option 3 - Outsourcing the service to a third party**
 
 **Advantages:**
 - You eliminate the disadvantages of the two previous options
