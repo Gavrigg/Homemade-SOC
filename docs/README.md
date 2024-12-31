@@ -1,5 +1,5 @@
 <h1 align="center">DOCUMENTACIÓN DEL PROYECTO</h1>
-
+<br>
 
 
 
@@ -7,6 +7,8 @@
 Para este proyecto me he servido del vídeo de Zane Ryan, titulado "¿Montar un SOC por componentes o implementar un todo en uno?", donde el ponente explica los servicios de los que se compone un SOC, tanto en su apartado teórico como práctico. Posteriormente, para la implementación más técnica me he servido de otro vídeo de Maurice Frayssinet subido a la plataforma YouTube titulado "Implementación del Centro de operaciones de seguridad (SOC)". En el podemos ver una serie de definiciones más en profundidad, a diferencia del vídeo de Zane Ryan. 
 
 **Esta introducción está en constante cambio, a medida que se añadan recursos y sus fuentes al proyecto se añadirán al apartado actual.**
+
+&nbsp;
 
 ## **¿Qué es un SOC?**
 Un SOC es tradicionalmente una instalación física dentro de una organización, que alberga un equipo de seguridad de la información. Este equipo analiza y supervisa los sistemas de seguridad de la organización. La misión del SOC es proteger a la empresa de las brechas de seguridad mediante la identificación, el análisis y la reacción a las amenazas dax ciberseguridad. Los equipos de SOC están compuestos por gerentes, analistas de seguridad y, a veces, ingenieros de5 seguridad. El SOC trabaja con los equipos de desarrollo y operaciones de TI de la compañía (Frayssinet, 2022).
@@ -86,6 +88,7 @@ ___
 - Menos posibilidades de personalizaciones
 - Coste puede ser mayor
 
+&nbsp;
 
 ## **Modelos de implementación de SOC**
 Existen diversos modelos de implementación de un Centro de Operaciones de Seguridad (SOC), cada uno adaptado a las necesidades y capacidades de la organización. Estos modelos van desde SOC dedicados con personal y recursos internos, hasta opciones más flexibles como SOC virtuales o servicios administrados por terceros (MSSP/MDR). A continuación, se detallan los modelos más comunes, que varían en cuanto a la estructura operativa, el nivel de personalización y la dependencia de recursos externos.
@@ -112,7 +115,7 @@ El SOC virtual destaca por su flexibilidad y bajo coste, ya que no requiere inst
 #### **SOC/MSSP/MDR administrado**
 Muchas organizaciones están recurriendo a los proveedores de servicio de seguridad administrados (MSSP) para proporcionar servicios SOC de forma subcontratada. Las ofertas modernas se denominan Managed Detection and Response (MDR). Los SOC administrados se pueden subcontratar por completo o coadministrar con personal de seguridad interno.
 
-
+&nbsp;
 
 ### **Tabla organizativa**
 La tabla presentada resume las principales opciones y modelos de implementación de un Centro de Operaciones de Seguridad (SOC), destacando sus características clave junto con una evaluación práctica de su complejidad, coste estimado y ejemplos de uso. Incluye desde soluciones altamente personalizables, como los SOC por componentes que requieren recursos significativos, hasta opciones externalizadas como los MSSP, ideales para pequeñas y medianas empresas. También se abarcan combinaciones híbridas y globales que ofrecen flexibilidad para organizaciones con operaciones distribuidas. Esta clasificación tiene como objetivo facilitar la elección del modelo adecuado según las necesidades, capacidades y presupuesto de cada organización.
@@ -123,6 +126,8 @@ La tabla presentada resume las principales opciones y modelos de implementación
 |   **Opción 2 - SOC todo en uno**   | - **SOC/NOC multifuncional**: Combina funciones de Centro de Operaciones de Red (NOC) y Centro de Operaciones de Seguridad (SOC)<br><br>- **SOC de fusión**: Incorpora inteligencia de amenazas y tecnología operativa (OT)           |      Media      |        Alto        |      Organizaciones con necesidades híbridas      |
 |   **Opción 3 - Externalización**   | - **SOC/MSSP/MDR administrado**: Servicios SOC subcontratados a proveedores de seguridad<br><br>- **Virtual SOC**: Equipo reactivo sin instalaciones dedicadas                                                                        |      Baja       |      Variable      |      Pymes que buscan externalizar seguridad      |
 |    **Combinaciones Especiales**    | - **SOC distribuido**: Personal a tiempo completo y parcial operando en horarios 8x5 según región<br><br>- **Comando SOC/SOC global**: Coordina SOC a nivel global, proporcionando inteligencia de amenazas y orientación estratégica |   Media-Alta    |        Alto        | Empresas globales con operaciones interconectadas |
+
+&nbsp;
 
 ## **Funciones y responsabilidades del SOC**
 
@@ -144,6 +149,7 @@ Administra el equipo de SOC e informa al CISO. Supervisan al equipo de seguridad
 
 Define las operaciones de seguridad de la organización. Se comunican con la gerencia sobre problemas de seguridad y supervisan las tareas de cumplimiento. El CISO tiene la última palabra sobre las políticas, estrategias y procedimientos relacionados con la ciberseguridad de la organización. También tienen un papel central en el cumplimiento y la gestión de riesgos, e implementan políticas para satisfacer demandas de seguridad específicas.
 
+&nbsp;
 ___
 # **Justificación**
 
@@ -166,6 +172,7 @@ Por otro lado, al optar por un SOC virtual, no solo optimizo los recursos, sino 
 
 En resumen, un **SOC virtual** me permitirá trabajar de forma más flexible y económica, manteniendo el enfoque en la adquisición de conocimientos prácticos sin sobrecargarme de tareas logísticas. Además, este modelo me proporciona la oportunidad de integrar soluciones de seguridad de una manera escalable, lo que resulta ideal para un proyecto como el que estoy llevando a cabo.
 
+&nbsp;
 ___
 # **Objetivos del proyecto**
 
@@ -202,6 +209,7 @@ Diseñar, implementar y documentar un SOC (Centro de Operaciones de Seguridad) f
 6. **Preparación para Certificaciones**
     - Alinear la experiencia práctica obtenida con los requisitos teóricos y técnicos de certificaciones relevantes como la **BTL1**.
 
+&nbsp;
 
 # **Planificación y ejecución del SOC casero**
 ### **Disponibilidad y horarios**
@@ -219,12 +227,20 @@ En este proyecto, la seguridad será la principal preocupación. Si bien el cump
 ### **Entorno**
 El entorno será local, sin una infraestructura híbrida o basada exclusivamente en la nube. La razón principal para elegir este enfoque es crear un SOC doméstico funcional que simule un entorno tradicional, utilizando hardware y software locales. Esto permite controlar directamente todos los componentes del SOC, aprender a gestionar las herramientas y realizar ajustes en función de las necesidades del proyecto sin depender de servicios externos. Aunque un entorno híbrido podría ofrecer mayor flexibilidad, en este caso se busca un enfoque más sencillo y directo para la implementación de un SOC en casa.
 
+&nbsp;
 
 # **Defensa en profundidad**
 En proceso
 
+&nbsp;
+
 # Herramientas empleadas
 En proceso
+
+
+&nbsp;
+&nbsp;
+
 
 ___
 # **Bibliografía**
