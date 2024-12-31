@@ -14,22 +14,19 @@ This project is designed for learning and experimentation, aimed at enthusiasts 
 
 ## 🚀 How to Use This Project
 
-1. Explore the Documentation:
+**1. Explore the Documentation:**
     Follow the day-by-day logs in the /docs directory for step-by-step guidance.
     Each log includes configurations, tools used, and lessons learned.
 
-2. Set Up Your Environment:
-
+**2. Set Up Your Environment:**
     Clone this repository.
     Refer to the setup guides in /setup to replicate the lab environment.
 
-3. Experiment and Learn:
-
+**3. Experiment and Learn:**
     Use the provided scripts, configurations, and examples to test and refine your SOC.
     Feel free to customize and adapt the tools to your needs.
 
-4. Contribute:
-
+**4. Contribute:**
     Found a better way to configure something? Have suggestions or improvements? Contributions are welcome!
 
 Here’s an expanded description for your GitHub project that aligns with your goals:
