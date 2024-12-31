@@ -1,6 +1,5 @@
-<p align="center">
-	# DOCUMENTACIÓN DEL PROYECTO
-</p>
+<h1 align="center">DOCUMENTACIÓN DEL PROYECTO</h1>
+
 # **Introducción**
 Para este proyecto me he servido del vídeo de Zane Ryan, titulado "¿Montar un SOC por componentes o implementar un todo en uno?", donde el ponente explica los servicios de los que se compone un SOC, tanto en su apartado teórico como práctico. Posteriormente, para la implementación más técnica me he servido de otro vídeo de Maurice Frayssinet subido a la plataforma YouTube titulado "Implementación del Centro de operaciones de seguridad (SOC)". En el podemos ver una serie de definiciones más en profundidad, a diferencia del vídeo de Zane Ryan. 
 
