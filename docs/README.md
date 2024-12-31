@@ -94,30 +94,30 @@ ___
 ## **SOC Deployment Models**
 There are a variety of Security Operations Center (SOC) deployment models, each tailored to the organization’s needs and capabilities. These models range from dedicated SOCs with internal staff and resources, to more flexible options such as virtual SOCs or third-party managed services (MSSP/MDR). The most common models are detailed below, which vary in operational structure, level of customization, and reliance on external resources.
 
-#### **Dedicated SOC**
+### **Dedicated SOC**
 Classic SOC with dedicated facilities, full-time dedicated staff, operated entirely in-house, 24x7 operations. Distinguished by its complete independence and autonomy, unlike the others, it offers the greatest control and customization, but entails high costs and operational complexity.
 
-#### **Distributed SOC**
+### **Distributed SOC**
 Distributed SOC is based on the decentralization of security operations, using both full-time and part-time staff. This model allows monitoring tasks to be divided geographically or by areas of specialization, which optimizes the use of resources. Generally, its operation is limited to a standard 8x5 business schedule in each region where it operates. This can result in less surveillance coverage during non-business hours, although it also reduces costs and facilitates integration into companies with fewer needs for uninterrupted security.
 
-#### **Multifunctional SOC/NOC**
+### **Multifunctional SOC/NOC**
 This type of SOC combines the functions of a Security Operations Center (SOC) and a Network Operations Center (NOC) in a single facility. This integration allows the dedicated team to manage both network infrastructure and security, offering a more efficient and cost-effective solution. However, it requires staff to possess specialized skills in both areas, which can complicate hiring and training. This approach is ideal for organizations looking to maximize the use of their resources and maintain centralized oversight of all operational aspects.
 
-#### **Fusion SOC**
+### **Fusion SOC**
 The fusion SOC represents an evolution of the traditional model, adding advanced capabilities such as threat intelligence integration and security management across operational technology (OT) environments. This allows for a more complete view of risks and the ability to proactively respond to emerging threats. This model is particularly useful for organizations that manage critical infrastructure or want security that is more integrated with their operational processes. However, its implementation requires careful planning and the acquisition of new technical skills.
 
-#### **SOC Command/Global SOC**
+### **SOC Command/Global SOC**
 This model acts as a centralized coordination center to manage and oversee other distributed SOCs within a global enterprise. Its primary function is to consolidate threat intelligence, maintain situational awareness, and provide strategic guidance to regional teams. This approach is ideal for large, multinational corporations, as it allows for standardizing procedures and improving overall incident response. It also facilitates communication across regions and ensures that security decisions are aligned with corporate objectives.
 
-#### **Virtual SOC**
+### **Virtual SOC**
 The virtual SOC stands out for its flexibility and low cost, as it does not require physical facilities or permanent staff dedicated exclusively to security operations. This model is activated only in response to high-priority incidents or critical alerts, making it an efficient option for organizations with limited resources. In addition, the term is also used to describe solutions provided by external managed security service providers (MSSPs), allowing for partial or full outsourcing of SOC functions.
 
-#### **Managed SOC/MSSP/MDR**
+### **Managed SOC/MSSP/MDR**
 Many organizations are turning to managed security service providers (MSSPs) to provide SOC services on an outsourced basis. Modern offerings are called Managed Detection and Response (MDR). Managed SOCs can be fully outsourced or co-managed with in-house security staff.
 
 &nbsp;
 
-### **Organizational Table**
+## **Organizational Table**
 The table below summarizes the main options and deployment models for a Security Operations Center (SOC), highlighting their key features along with a practical assessment of their complexity, estimated cost, and use cases. It ranges from highly customizable solutions, such as componentized SOCs that require significant resources, to outsourced options such as MSSPs, ideal for small and medium-sized businesses. Hybrid and global combinations are also covered, offering flexibility for organizations with distributed operations. This classification aims to facilitate the choice of the appropriate model according to the needs, capabilities, and budget of each organization.
 
 
