@@ -33,9 +33,6 @@ This project is designed for learning and experimentation, aimed at enthusiasts 
    
     Found a better way to configure something? Have suggestions or improvements? Contributions are welcome!
 
-Here’s an expanded description for your GitHub project that aligns with your goals:
-Homemade SOC: Building a Security Operations Center at Home
-
 
 ## 📂 Project Structure
 
