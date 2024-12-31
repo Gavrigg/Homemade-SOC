@@ -255,4 +255,6 @@ Ryan, Z. (2022). # CYBERCLOUDSUMMIT22](https://www.youtube.com/hashtag/cyberclou
 
 Kral, P. (2021). *Incident Handler's Handbook*. GIAC Certifications, SANS Institute.
 
+GlobalSuite Solutions. (s. f.). ¿Qué es la norma ISO 27001 y para qué sirve?. GlobalSuite Solutions. Recuperado el [día] de [mes] de [año], de https://www.globalsuitesolutions.com/es/que-es-la-norma-iso-27001-y-para-que-sirve/#Introduccion_a_la_norma_ISO_27001.
+
 Image taken from: https://x.com/Fisher85M/status/1579782478285672449
