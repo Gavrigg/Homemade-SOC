@@ -54,6 +54,32 @@ In addition, ISO 27001 can be integrated with other standards and frameworks to 
 - **Performance evaluation**: Establishes the requirements for monitoring, measuring, analyzing and evaluating the performance of the ISMS. This includes conducting internal audits, management reviews and conformity assessments. Requirements for continual improvement of the ISMS are also included.
 
 
+### Controls of ISO 27001 standard
+
+The ISO/IEC 27001 standard establishes an information security management framework that includes a series of controls ISO 27001 to ensure the confidentiality, integrity, and availability of information. Some of the controls included in the standard are:
+
+**Controlled Access:**
+Restriction of access to information resources only to authorized individuals.
+
+Information Classification:
+Identification and classification of critical information to determine the necessary level of protection.
+
+**Physical Security:**
+Security measures to protect physical information resources, such as storage devices, buildings, and areas.
+
+**Device Control:**
+Measures to protect and control devices that access information.
+
+**Cryptography:**
+Use of encryption techniques to protect information at rest and in transit.
+
+**Backup and Recovery:**
+Planning and performing regular backups to ensure the availability of information in case of a disaster.
+
+**Monitoring and Auditing:**
+Periodic monitoring and review of security systems and records to detect potential vulnerabilities and suspicious activities.
+
+These are just some of the controls included in the ISO/IEC 27002 standard, which covers a comprehensive approach to information security management. The 2022 version of the standard consists of 93 controls organized into 4 major groups (Organizational, Personnel, Physical, and Technological controls).
 
 
 
