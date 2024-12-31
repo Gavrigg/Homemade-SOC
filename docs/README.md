@@ -160,15 +160,15 @@ Although the project does not cover the functions of security engineers or SOC m
 
 Through simulating these functions and roles within a controlled environment, this project seeks to not only demonstrate my technical skills, but also my ability to work in a team and collaborate in identifying and resolving security issues in a practical context, aligned with the goals and expectations of an L1 analyst in a professional cybersecurity environment.
 
-## **Type of SOC chosen**
+### **Type of SOC chosen**
 For the development of this project, I have chosen to implement a **virtual SOC** due to several reasons that facilitate the creation of a security operations center in a domestic environment. The main advantage of a virtual SOC is the flexibility and reduction of costs associated with physical infrastructure, since by not requiring dedicated facilities or a team of full-time staff, I can manage the entire process from a controlled environment at home, which makes it possible to adapt the project to my available capabilities and resources.
 
 In addition, the virtual SOC offers remarkable scalability, since it allows you to start with a basic configuration and add functionalities as your needs or experience grow. This makes it a practical solution for small projects like this one, domestic or learning environments, with limited resources. In addition, its implementation is accessible thanks to the wide availability of open source or low-cost tools, which facilitates its adoption without compromising the budget. Finally, it stands out for its speed of implementation, avoiding the long times associated with physical installations and allowing it to be operational in a much shorter period of time.
 
-## **Project Limitations**
+### **Project Limitations**
 One of the limitations I would face when opting for a **dedicated SOC** would be the need to manage a more complex physical infrastructure, which, in addition to increasing costs, would require more time and effort to maintain the tools and configure the networks and servers. This type of implementation would also imply greater complexity in hiring resources, such as security analysts or programmers, something not very feasible for a personal project in which a self-taught experience is sought.
 
-## **Project Advantages**
+### **Project Advantages**
 On the other hand, by opting for a virtual SOC, I not only optimize resources, but I can integrate security tools and solutions in a modular way, adapting the tools to my needs and learning about each component in a more practical and efficient way. Although in a virtual SOC some control over the infrastructure is lost, the possibility of activating tools and capabilities only when necessary allows me to simulate a real environment efficiently.
 
 In short, a **virtual SOC** will allow me to work more flexibly and cost-effectively, while keeping the focus on acquiring practical knowledge without being overloaded with logistical tasks. In addition, this model gives me the opportunity to integrate security solutions in a scalable way, which is ideal for a project like the one I am undertaking.
