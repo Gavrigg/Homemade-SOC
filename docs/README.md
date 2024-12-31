@@ -152,7 +152,6 @@ Defines the organization's security operations. They communicate with management
 
 &nbsp;
 
-___
 # **Justification**
 
 The design and implementation of a domestic SOC aims to demonstrate my skills and knowledge acquired in the analysis and response to cybersecurity incidents, especially in the role of L1 analyst. This project is structured to reflect the typical functions and responsibilities of a SOC, which will allow me to practically apply the knowledge gained during my training. In the case of a security analyst, who is the central figure in this project, my focus will be on the detection, investigation, and response to security incidents. The L1 analyst is the first line of defense, responsible for detecting threats through monitoring systems, investigating alerts, and responding appropriately and quickly. As part of this project, I will work to configure the necessary tools to identify threats, process alerts, and document incidents, which simulates the daily responsibilities of a security analyst.
@@ -176,7 +175,7 @@ In short, a **virtual SOC** will allow me to work more flexibly and cost-effecti
 
 &nbsp;
 
-___
+
 # **Project Objectives**
 
 The purpose of this project is to design, implement and document a functional Security Operations Center (SOC) in a domestic environment, using accessible tools and appropriate techniques to develop practical experience in cybersecurity. Through this process, it is intended to gain a deeper understanding of SOC principles and practices, and acquire skills that are relevant to future career opportunities in the cybersecurity field.
@@ -243,7 +242,7 @@ In progress
 
 &nbsp;
 
-___
+
 # **Bibliografía**
 
 Frayssinet, M. (2022). Implementación del Centro de operaciones de seguridad (SOC) "Implementación del Centro de operaciones de seguridad (SOC)". YouTube: https://www.youtube.com/watch?v=QyEGELTFkvU.
