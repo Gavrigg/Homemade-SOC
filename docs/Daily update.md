@@ -1,6 +1,6 @@
 ## December 29, 2024
 - Made the main README.md with the project introduction
-- Searched for YouTube videos to document about how to build the SOC
+- Searched for YouTube videos to document how to build the SOC
 
 ## December 30, 2024
 - Searched for information on tools I could use to build the SOC (SIEM, SOAR, IDS, IPS, AI...)
