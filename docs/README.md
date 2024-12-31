@@ -187,7 +187,7 @@ Diseñar, implementar y documentar un SOC (Centro de Operaciones de Seguridad) f
     - Configurar sistemas para identificar y gestionar alertas generadas por actividades sospechosas
     - Desarrollar habilidades en el análisis de registros, clasificación de incidentes y reacción ante amenazas de seguridad en tiempo real
 
-4. **Documentación y Compartición**
+4. **Documentación y Divulgación**
     - Registrar el progreso diario, las decisiones técnicas y los resultados obtenidos para crear un recurso útil para otros interesados en la ciberseguridad
     - Publicar los resultados en un repositorio público como un proyecto demostrativo, demostrando habilidades y conocimiento técnico adquirido
 
