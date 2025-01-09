@@ -13,19 +13,19 @@ The [ISO 27001](https://www.globalsuitesolutions.com/what-is-the-iso-27001-stand
 
 ### ISO 27001 Implementation Process
 
-The ISO 27001 implementation process is divided into four phases: planning, implementation, assessment and continual improvement.
+- The ISO 27001 implementation process is divided into four phases: planning, implementation, assessment and continual improvement.
 Planning Phase
 
-During the planning phase, the organization identifies its information security requirements and establishes a plan to implement the ISMS.
+- During the planning phase, the organization identifies its information security requirements and establishes a plan to implement the ISMS.
 Implementation Phase
 
-The implementation phase includes creating policies, procedures and controls to protect information.
+- The implementation phase includes creating policies, procedures and controls to protect information.
 Assessment Phase
 
-During the assessment phase, the organization assesses the effectiveness of its ISMS and identifies areas for improvement.
+- During the assessment phase, the organization assesses the effectiveness of its ISMS and identifies areas for improvement
 Continual Improvement Phase
 
-The continual improvement phase involves identifying and implementing improvements to the ISMS processes and controls.
+- The continual improvement phase involves identifying and implementing improvements to the ISMS processes and controls
 
 Once implemented and certified, the ISMS must be regularly reviewed and updated to ensure its continued compliance with information security requirements. ISO 27001 certification, although not mandatory, can also improve brand image and customer trust, as it demonstrates that the organization is committed to protecting information, as certified by an independent certifying body.
 
