@@ -15,3 +15,11 @@
 - Searched for information on ISO 27001
 - Written and summarized the information on ISO 27001
 - Translated the README.md from /docs from Spanish to English
+
+&nbsp;
+
+
+## January 9, 2025
+- Searched information about different SIEM tools
+- I will use Wazuh as the default SIEM
+- Installed Wazuh OVA in VirtualBox
