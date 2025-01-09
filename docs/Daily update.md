@@ -24,4 +24,5 @@
 - I will use Wazuh as the default SIEM
 - Installed Wazuh OVA in VirtualBox
 - Deployed Wazuh and added my PC as an Agent
-- I implemented rules to create alerts on the server in order to monitor changes made to a directory in real time.
+- I implemented rules to create alerts on the server in order to monitor changes made to a directory in real time
+- Implemented rules to create alerts on the server in order to stop brute force attacks
