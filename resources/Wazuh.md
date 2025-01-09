@@ -1,4 +1,4 @@
-# Wazuh Overview in Cybersecurity  
+# Wazuh Overview
 
 Wazuh is an open-source platform for threat detection, compliance management, and security monitoring. As both an Intrusion Detection System (IDS) 
 and a Security Information and Event Management (SIEM) tool, it provides a centralized approach to managing and analyzing security data. 
