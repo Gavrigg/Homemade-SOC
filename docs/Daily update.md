@@ -23,3 +23,5 @@
 - Searched information about different SIEM tools
 - I will use Wazuh as the default SIEM
 - Installed Wazuh OVA in VirtualBox
+- Deployed Wazuh and added my PC as an Agent
+- I implemented rules to create alerts on the server in order to monitor changes made to a folder in real time
