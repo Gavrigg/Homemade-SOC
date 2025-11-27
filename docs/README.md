@@ -1,4 +1,4 @@
-<h1 align="center">DOCUMENTACIÓN DEL PROYECTO</h1>
+<h1 align="center">PROJECT DOCUMENTATION</h1>
 <br>
 
 
