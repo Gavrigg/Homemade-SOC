@@ -3,7 +3,7 @@
 
 
 
-# **Introducción**
+# **Introduction**
 For this project I have used Zane Ryan's video, entitled "¿Montar un SOC por componentes o implementar un todo en uno?", where the speaker explains the services that make up a SOC, both in theory and in practice. Later, for the more technical implementation I have used another video by Maurice Frayssinet uploaded to the YouTube platform entitled "Implementing the Security Operations Center (SOC)". In it we can see a series of more in-depth definitions, unlike Zane Ryan's video.
 
 **This introduction is constantly changing, as resources and their sources are added to the project they will be added to the current section.**
