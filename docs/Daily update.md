@@ -27,6 +27,8 @@
 - Implemented rules to create alerts on the server in order to monitor changes made to a directory in real time
 - Implemented rules to create alerts on the server in order to stop brute force attacks
 
+&nbsp;
+
 ## November 27, 2025
 - Just fixed an old PC and started using it as a Ubuntu Server: i5 10500F, Nvidia GTX1060, 8GB RAM DDR4, 1TB HDD, 250 SSD
 - Implemented basic security measures: ufw, fail2ban, linys, ssh keys
